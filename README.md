@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=SUBZERO%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+
+
+
 <p align="center">
   <h1 align="center">❄️ SUBZERO-MD ❄️</h1>
 </p>
@@ -78,7 +82,7 @@ You will need a session ID to run the SUBZERO-MD. Click the button below to obta
 
 > **2️⃣Pair Code (Session ID)**
 
-<a href='https://subzero-md-pair2.onrender.com' target="_blank">
+<a href='https://subzero-md-pair5.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
